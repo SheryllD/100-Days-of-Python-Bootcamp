@@ -71,7 +71,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
         elif choise3 == "blue":
              print("It's a room full of ice. Game Over!")
         else: 
-             print("This door doesn't exist. Game Over!")
+             print("This door doesn't exist. Sorry, Game Over!")
     else: 
         print("You got attacked by an angry doplhin. Game Over!")
 
