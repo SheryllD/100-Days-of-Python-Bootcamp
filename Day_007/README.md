@@ -1,4 +1,4 @@
-# Prohect: Hangman
+# Project: Hangman
 
 # Step 1: 
 
